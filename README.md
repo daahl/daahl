@@ -1,7 +1,6 @@
 - ✌ Hey, I'm Mac!
-- 👨‍🎓 M.Sc. in Electrical Engineering
-- 📖 Trying to learn more about embedded systems through various projects
-- 🪴 Currently accepting any and all advice on low-effort house plants
+- 👨‍🎓 M.Sc. in Electrical Engineering, focusing on mechatronics
+- 📖 Currently trying to learn more about embedded systems through various projects
 
 <!--
 **daahl/daahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
